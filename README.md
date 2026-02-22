@@ -11,7 +11,7 @@ I’m a Junior Full Stack Developer, recently graduated with a University Techni
 
 I build complete web applications, developing the Frontend with Angular, TypeScript and JavaScript, and the Backend with Java (Spring Boot) and C# .NET. I create RESTful APIs and integrate them with relational databases.
 
-<div style="display: flex; align-items: center; gap: 30px; margin-top: 15px;">
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
 <div>
 
@@ -22,7 +22,7 @@ I build complete web applications, developing the Frontend with Angular, TypeScr
 </div>
 
 <div>
-  <img src="https://i.pinimg.com/originals/2b/cf/4a/2bcf4a36a26bf2f5de878f2c7e985464.gif"/>
+  <img src="[LINK_DIRECTO_AL_GIF.gif](https://i.pinimg.com/originals/2b/cf/4a/2bcf4a36a26bf2f5de878f2c7e985464.gif)" width="150"/>
 </div>
 
 </div>
