@@ -10,7 +10,7 @@ Fullstack Developer from Córdoba, Argentina 🇦🇷
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-nicolás-ruiz-7262601a8)
 
 </p>
----
+
 ## 👨‍💻 About me
 
 - 💼 Fullstack Developer.
@@ -33,3 +33,7 @@ Fullstack Developer from Córdoba, Argentina 🇦🇷
 
 ### Backend
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+###  Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
