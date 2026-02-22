@@ -68,6 +68,6 @@ I build complete web applications, developing the Frontend with Angular, TypeScr
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=FacuRuizz1&theme=transparent&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=94A3B8" height="170"/>
+<img src="https://streak-stats.demolab.com?user=FacuRuizz1&theme=transparent&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=94A3B8" height="170"/>
 
 </div>
