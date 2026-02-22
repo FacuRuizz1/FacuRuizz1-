@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Facundo Ruiz</h1>
 
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ2Y2g4YzVyeXJsanYxazB0ZW5xaDd1ZjlhMGpmbmxsYWozNTNmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
-</div>
-
 <p align="center">
 Fullstack Developer from Córdoba, Argentina 🇦🇷
 </p>
 
 
-## 👨‍💻 About me
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
 
 I’m a Junior Full Stack Developer, recently graduated with a University Technical Degree in Programming (UTN).
 
@@ -17,8 +17,17 @@ I build complete web applications, developing the Frontend with Angular, TypeScr
 
 💼 Actively seeking my first IT opportunity (Full-Time)  
 🧩 Consistent, responsible and detail-oriented  
-🧠 Passionate about clean code, best practices and Agile/Scrum methodologies
+🧠 Passionate about clean code, best practices and Agile/Scrum methodologies  
 
+</td>
+
+<td width="40%" align="center">
+
+<img src="LINK_DIRECTO_AL_GIF.gif" width="250"/>
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🛠️ Skills
