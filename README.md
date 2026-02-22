@@ -68,7 +68,7 @@ I build complete web applications, developing the Frontend with Angular, TypeScr
 
 <div align="center">
 
-### 🧩 TPI - Users
+### 👤 TPI - Users
 🛠 Backend API - Gestión de usuarios y direcciones  
 
 <a href="https://github.com/LCIV-2024/2W1-TPI-users-and-addresses">
