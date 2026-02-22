@@ -64,6 +64,22 @@ I build complete web applications, developing the Frontend with Angular, TypeScr
 
 --
 
+## 🚀 Proyectos Destacados
+
+<div align="center">
+
+### TPI- users
+🔗 <a href="https://github.com/LCIV-2024/2W1-TPI-users-and-addresses.git">Ver repositorio</a>
+
+<br>
+
+### Tesis- Templa Restaurante
+🔗 <a href="https://github.com/FacuRuizz1/PS2025_TemplaRestaurante.git">Ver repositorio</a>
+
+</div>
+
+--
+
 ## 📊 GitHub Stats
 
 <div align="center">
