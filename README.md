@@ -7,9 +7,9 @@ Fullstack Developer from Córdoba, Argentina 🇦🇷
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="60%">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 30px;">
+
+<div style="flex: 1;">
 
 I’m a Junior Full Stack Developer, recently graduated with a University Technical Degree in Programming (UTN).
 
@@ -19,15 +19,13 @@ I build complete web applications, developing the Frontend with Angular, TypeScr
 🧩 Consistent, responsible and detail-oriented  
 🧠 Passionate about clean code, best practices and Agile/Scrum methodologies  
 
-</td>
+</div>
 
-<td width="40%" align="center">
+<div>
+  <img src="https://i.pinimg.com/originals/2b/cf/4a/2bcf4a36a26bf2f5de878f2c7e985464.gif" width="220"/>
+</div>
 
-<img src="https://i.pinimg.com/originals/2b/cf/4a/2bcf4a36a26bf2f5de878f2c7e985464.gif" width="250"/>
-
-</td>
-</tr>
-</table>
+</div>
 ---
 
 ## 🛠️ Skills
