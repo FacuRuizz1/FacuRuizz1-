@@ -23,7 +23,7 @@ I build complete web applications, developing the Frontend with Angular, TypeScr
 
 <td width="40%" align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ2Y2g4YzVyeXJsanYxazB0ZW5xaDd1ZjlhMGpmbmxsYWozNTNmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+<img src="https://i.pinimg.com/originals/2b/cf/4a/2bcf4a36a26bf2f5de878f2c7e985464.gif" width="250"/>
 
 </td>
 </tr>
