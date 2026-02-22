@@ -71,3 +71,10 @@ I build complete web applications, developing the Frontend with Angular, TypeScr
 <img src="https://streak-stats.demolab.com?user=FacuRuizz1&theme=transparent&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8&currStreakNum=8B5CF6&sideNums=8B5CF6&dates=94A3B8" height="170"/>
 
 </div>
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FacuRuizz1&theme=react-dark&color=38bdf8&line=38bdf8&point=38bdf8&area=true&hide_border=true"/>
+
+</div>
